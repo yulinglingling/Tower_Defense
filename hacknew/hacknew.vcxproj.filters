@@ -40,6 +40,9 @@
     <ClCompile Include="..\..\TowerDefense\WinScene.cpp" />
     <ClCompile Include="..\..\TowerDefense\WoodBullet.cpp" />
     <ClCompile Include="..\..\TowerDefense\setting.cpp.cpp" />
+    <ClCompile Include="..\..\TowerDefense\diceenemy.cpp" />
+    <ClCompile Include="..\..\TowerDefense\machinegunturret.cpp" />
+    <ClCompile Include="..\..\TowerDefense\GoodBullet.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\..\TowerDefense\Allegro5Exception.hpp" />
@@ -75,9 +78,11 @@
     <ClInclude Include="..\..\TowerDefense\WinScene.hpp" />
     <ClInclude Include="..\..\TowerDefense\WoodBullet.hpp" />
     <ClInclude Include="..\..\TowerDefense\setting.hpp" />
+    <ClInclude Include="..\..\TowerDefense\diceenemy.hpp" />
+    <ClInclude Include="..\..\TowerDefense\machinegunturret.hpp" />
+    <ClInclude Include="..\..\TowerDefense\GoodBullet.hpp" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="..\..\TowerDefense\NTHU_I2P_MiniProject2.entitlements" />
     <None Include="..\..\TowerDefense\ViewController.m" />
   </ItemGroup>
 </Project>

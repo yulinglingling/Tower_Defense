@@ -43,6 +43,7 @@
     <ClCompile Include="..\..\TowerDefense\diceenemy.cpp" />
     <ClCompile Include="..\..\TowerDefense\machinegunturret.cpp" />
     <ClCompile Include="..\..\TowerDefense\GoodBullet.cpp" />
+    <ClCompile Include="..\..\TowerDefense\ShootingEffect.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\..\TowerDefense\Allegro5Exception.hpp" />
@@ -81,6 +82,7 @@
     <ClInclude Include="..\..\TowerDefense\diceenemy.hpp" />
     <ClInclude Include="..\..\TowerDefense\machinegunturret.hpp" />
     <ClInclude Include="..\..\TowerDefense\GoodBullet.hpp" />
+    <ClInclude Include="..\..\TowerDefense\ShootingEffect.hpp" />
   </ItemGroup>
   <ItemGroup>
     <None Include="..\..\TowerDefense\ViewController.m" />

@@ -52,8 +52,10 @@
     <ClCompile Include="..\..\TowerDefense\Sprite.cpp" />
     <ClCompile Include="..\..\TowerDefense\StageSelectScene.cpp" />
     <ClCompile Include="..\..\TowerDefense\StartScene.cpp" />
+    <ClCompile Include="..\..\TowerDefense\StrongEnemy.cpp" />
     <ClCompile Include="..\..\TowerDefense\Turret.cpp" />
     <ClCompile Include="..\..\TowerDefense\TurretButton.cpp" />
+    <ClCompile Include="..\..\TowerDefense\TwoTurret.cpp" />
     <ClCompile Include="..\..\TowerDefense\WinScene.cpp" />
     <ClCompile Include="..\..\TowerDefense\WoodBullet.cpp" />
   </ItemGroup>
@@ -90,14 +92,19 @@
     <ClInclude Include="..\..\TowerDefense\Sprite.hpp" />
     <ClInclude Include="..\..\TowerDefense\StageSelectScene.hpp" />
     <ClInclude Include="..\..\TowerDefense\StartScene.hpp" />
+    <ClInclude Include="..\..\TowerDefense\StrongEnemy.hpp" />
     <ClInclude Include="..\..\TowerDefense\Turret.hpp" />
     <ClInclude Include="..\..\TowerDefense\TurretButton.hpp" />
+    <ClInclude Include="..\..\TowerDefense\TwoTurret.hpp" />
     <ClInclude Include="..\..\TowerDefense\ViewController.h" />
     <ClInclude Include="..\..\TowerDefense\WinScene.hpp" />
     <ClInclude Include="..\..\TowerDefense\WoodBullet.hpp" />
   </ItemGroup>
   <ItemGroup>
     <None Include="..\..\TowerDefense\ViewController.m" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="resources\enemy1.txt" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>

@@ -46,6 +46,8 @@
     <ClCompile Include="..\..\TowerDefense\ShootingEffect.cpp" />
     <ClCompile Include="..\..\TowerDefense\StrongEnemy.cpp" />
     <ClCompile Include="..\..\TowerDefense\TwoTurret.cpp" />
+    <ClCompile Include="..\..\TowerDefense\FourBullet.cpp" />
+    <ClCompile Include="..\..\TowerDefense\FourTurret.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\..\TowerDefense\Allegro5Exception.hpp" />
@@ -87,6 +89,8 @@
     <ClInclude Include="..\..\TowerDefense\ShootingEffect.hpp" />
     <ClInclude Include="..\..\TowerDefense\StrongEnemy.hpp" />
     <ClInclude Include="..\..\TowerDefense\TwoTurret.hpp" />
+    <ClInclude Include="..\..\TowerDefense\FourBullet.hpp" />
+    <ClInclude Include="..\..\TowerDefense\FourTurret.hpp" />
   </ItemGroup>
   <ItemGroup>
     <None Include="..\..\TowerDefense\ViewController.m" />

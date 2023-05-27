@@ -48,6 +48,10 @@
     <ClCompile Include="..\..\TowerDefense\TwoTurret.cpp" />
     <ClCompile Include="..\..\TowerDefense\FourBullet.cpp" />
     <ClCompile Include="..\..\TowerDefense\FourTurret.cpp" />
+    <ClCompile Include="..\..\TowerDefense\ShifterButton.cpp" />
+    <ClCompile Include="..\..\TowerDefense\ShovelButton.cpp" />
+    <ClCompile Include="..\..\TowerDefense\Shifter.cpp" />
+    <ClCompile Include="..\..\TowerDefense\Shovel.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\..\TowerDefense\Allegro5Exception.hpp" />
@@ -91,6 +95,10 @@
     <ClInclude Include="..\..\TowerDefense\TwoTurret.hpp" />
     <ClInclude Include="..\..\TowerDefense\FourBullet.hpp" />
     <ClInclude Include="..\..\TowerDefense\FourTurret.hpp" />
+    <ClInclude Include="..\..\TowerDefense\ShifterButton.hpp" />
+    <ClInclude Include="..\..\TowerDefense\ShovelButton.hpp" />
+    <ClInclude Include="..\..\TowerDefense\Shifter.hpp" />
+    <ClInclude Include="..\..\TowerDefense\Shovel.hpp" />
   </ItemGroup>
   <ItemGroup>
     <None Include="..\..\TowerDefense\ViewController.m" />

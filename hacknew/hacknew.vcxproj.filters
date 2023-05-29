@@ -50,7 +50,7 @@
     <ClCompile Include="..\..\TowerDefense\FourTurret.cpp" />
     <ClCompile Include="..\..\TowerDefense\ShifterButton.cpp" />
     <ClCompile Include="..\..\TowerDefense\ShovelButton.cpp" />
-    <ClCompile Include="..\..\TowerDefense\Shifter.cpp" />
+    <ClCompile Include="..\..\TowerDefense\Music.cpp" />
     <ClCompile Include="..\..\TowerDefense\Shovel.cpp" />
   </ItemGroup>
   <ItemGroup>
@@ -97,7 +97,7 @@
     <ClInclude Include="..\..\TowerDefense\FourTurret.hpp" />
     <ClInclude Include="..\..\TowerDefense\ShifterButton.hpp" />
     <ClInclude Include="..\..\TowerDefense\ShovelButton.hpp" />
-    <ClInclude Include="..\..\TowerDefense\Shifter.hpp" />
+    <ClInclude Include="..\..\TowerDefense\Music.hpp" />
     <ClInclude Include="..\..\TowerDefense\Shovel.hpp" />
   </ItemGroup>
   <ItemGroup>

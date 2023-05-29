@@ -49,7 +49,7 @@
     <ClCompile Include="..\..\TowerDefense\RedNormalEnemy.cpp" />
     <ClCompile Include="..\..\TowerDefense\Resources.cpp" />
     <ClCompile Include="..\..\TowerDefense\setting.cpp.cpp" />
-    <ClCompile Include="..\..\TowerDefense\Shifter.cpp" />
+    <ClCompile Include="..\..\TowerDefense\Music.cpp" />
     <ClCompile Include="..\..\TowerDefense\ShifterButton.cpp" />
     <ClCompile Include="..\..\TowerDefense\ShootingEffect.cpp" />
     <ClCompile Include="..\..\TowerDefense\Shovel.cpp" />
@@ -95,7 +95,7 @@
     <ClInclude Include="..\..\TowerDefense\RedNormalEnemy.hpp" />
     <ClInclude Include="..\..\TowerDefense\Resources.hpp" />
     <ClInclude Include="..\..\TowerDefense\setting.hpp" />
-    <ClInclude Include="..\..\TowerDefense\Shifter.hpp" />
+    <ClInclude Include="..\..\TowerDefense\Music.hpp" />
     <ClInclude Include="..\..\TowerDefense\ShifterButton.hpp" />
     <ClInclude Include="..\..\TowerDefense\ShootingEffect.hpp" />
     <ClInclude Include="..\..\TowerDefense\Shovel.hpp" />

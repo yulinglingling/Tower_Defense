@@ -21,6 +21,7 @@
   <ItemGroup>
     <ClCompile Include="..\..\TowerDefense\Allegro5Exception.cpp" />
     <ClCompile Include="..\..\TowerDefense\AudioHelper.cpp" />
+    <ClCompile Include="..\..\TowerDefense\Boss.cpp" />
     <ClCompile Include="..\..\TowerDefense\Bullet.cpp" />
     <ClCompile Include="..\..\TowerDefense\Collider.cpp" />
     <ClCompile Include="..\..\TowerDefense\diceenemy.cpp" />
@@ -68,6 +69,7 @@
   <ItemGroup>
     <ClInclude Include="..\..\TowerDefense\Allegro5Exception.hpp" />
     <ClInclude Include="..\..\TowerDefense\AudioHelper.hpp" />
+    <ClInclude Include="..\..\TowerDefense\Boss.hpp" />
     <ClInclude Include="..\..\TowerDefense\Bullet.hpp" />
     <ClInclude Include="..\..\TowerDefense\Collider.hpp" />
     <ClInclude Include="..\..\TowerDefense\diceenemy.hpp" />

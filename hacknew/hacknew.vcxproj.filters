@@ -52,6 +52,7 @@
     <ClCompile Include="..\..\TowerDefense\ShovelButton.cpp" />
     <ClCompile Include="..\..\TowerDefense\Music.cpp" />
     <ClCompile Include="..\..\TowerDefense\Shovel.cpp" />
+    <ClCompile Include="..\..\TowerDefense\Boss.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\..\TowerDefense\Allegro5Exception.hpp" />
@@ -99,6 +100,7 @@
     <ClInclude Include="..\..\TowerDefense\ShovelButton.hpp" />
     <ClInclude Include="..\..\TowerDefense\Music.hpp" />
     <ClInclude Include="..\..\TowerDefense\Shovel.hpp" />
+    <ClInclude Include="..\..\TowerDefense\Boss.hpp" />
   </ItemGroup>
   <ItemGroup>
     <None Include="..\..\TowerDefense\ViewController.m" />

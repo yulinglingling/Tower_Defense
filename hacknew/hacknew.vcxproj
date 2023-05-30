@@ -39,6 +39,7 @@
     <ClCompile Include="..\..\TowerDefense\IObject.cpp" />
     <ClCompile Include="..\..\TowerDefense\IScene.cpp" />
     <ClCompile Include="..\..\TowerDefense\Label.cpp" />
+    <ClCompile Include="..\..\TowerDefense\Little.cpp" />
     <ClCompile Include="..\..\TowerDefense\LOG.cpp" />
     <ClCompile Include="..\..\TowerDefense\LoseScene.cpp" />
     <ClCompile Include="..\..\TowerDefense\machinegunturret.cpp" />
@@ -87,6 +88,7 @@
     <ClInclude Include="..\..\TowerDefense\IObject.hpp" />
     <ClInclude Include="..\..\TowerDefense\IScene.hpp" />
     <ClInclude Include="..\..\TowerDefense\Label.hpp" />
+    <ClInclude Include="..\..\TowerDefense\Little.hpp" />
     <ClInclude Include="..\..\TowerDefense\LOG.hpp" />
     <ClInclude Include="..\..\TowerDefense\LoseScene.hpp" />
     <ClInclude Include="..\..\TowerDefense\machinegunturret.hpp" />
